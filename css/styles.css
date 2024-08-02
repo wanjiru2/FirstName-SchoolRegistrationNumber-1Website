@@ -1,0 +1,26 @@
+body{
+    font- family: sans-serif;
+    margin:1.25rem;
+}
+header{
+    background-color:#007bff;
+    padding:0.65rem;
+    align items:center;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+h1, h2{
+    color:green;
+}
+#home img{
+    display: block;
+    margin: 1.25rem;
+}
+hr{
+    border:0;
+    height:0.0625rem;
+    background-color: #ff8c00;
+    margin:1.25rem 0;
+}
